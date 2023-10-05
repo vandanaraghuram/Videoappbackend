@@ -1,0 +1,82 @@
+{
+  "videoos": [
+    {
+      "id": 1,
+      "caption": "One direction",
+      "thumbnail": "https://i.postimg.cc/zvMQH4qp/64e0448d7fb207d7314022cf589911d4.jpg",
+      "url": "https://www.youtube.com/embed/QJO3ROT-A4E"
+    },
+    {
+      "id": "ln1ag4ob",
+      "caption": "figma",
+      "thumbnail": "https://i.postimg.cc/9Qv5wPwB/images-2.jpg",
+      "url": "https://www.youtube.com/embed/dXQ7IHkTiMM"
+    },
+    {
+      "id": 3,
+      "caption": "comedy",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-65336414,width-400,resizemode-4/65336414.jpg",
+      "url": "https://www.youtube.com/embed/iD1MwcNe1d0"
+    }
+  ],
+  "category": [
+    {
+      "id": 2,
+      "name": "education",
+      "allVideos": [
+        {
+          "id": 2,
+          "caption": "Taylor swift",
+          "thumbnail": "https://www.indiablooms.com/showbiz_pic/2021/c866607a31c715062a3ebf1a7a13cf46.jpg",
+          "url": "https://www.youtube.com/embed/tRFLs_-54gE"
+        },
+        {
+          "id": 2,
+          "caption": "Taylor swift",
+          "thumbnail": "https://www.indiablooms.com/showbiz_pic/2021/c866607a31c715062a3ebf1a7a13cf46.jpg",
+          "url": "https://www.youtube.com/embed/tRFLs_-54gE"
+        },
+        {
+          "id": "ln1ag4ob",
+          "caption": "figma",
+          "thumbnail": "https://i.postimg.cc/9Qv5wPwB/images-2.jpg",
+          "url": "https://www.youtube.com/embed/dXQ7IHkTiMM"
+        }
+      ]
+    },
+    {
+      "id": "ln463yfe",
+      "name": "comedy",
+      "allVideos": []
+    },
+    {
+      "id": 3,
+      "name": "life",
+      "allVideos": []
+    },
+    {
+      "id": 4,
+      "name": "music",
+      "allVideos": []
+    },
+    {
+      "id": 5,
+      "name": "music\n",
+      "allVideos": []
+    }
+  ],
+  "histories": [
+    {
+      "id": "ln1ag4ob",
+      "cardName": "figma",
+      "url": "https://www.youtube.com/embed/dXQ7IHkTiMM",
+      "date": "3/10/2023 11:25 am"
+    },
+    {
+      "id": "lna076zj",
+      "cardName": "One direction",
+      "url": "https://www.youtube.com/embed/QJO3ROT-A4E",
+      "date": "October 276th 2023,1:03:57 PM"
+    }
+  ]
+}
